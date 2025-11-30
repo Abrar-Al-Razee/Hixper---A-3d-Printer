@@ -106,3 +106,15 @@ Firstly I researched popular 3D printers to understand their features, component
 
 ![enter image description here](https://files.edgestore.dev/iz2sept3369gmc0f/publicFiles/_public/d9443607-f6a6-46f3-8584-bd05eae0a13f.jpg)
 
+
+## **Day - 10, ( 29/11/25 ) - Preparing Final BOM**  
+⏳ **Time Spent:** 3+ hours  
+> This is quite pain to find right goods based on budget and availability.
+> I search on Alibaba and Aliexpress
+> And got the items also but it will take a bunch of time so decided to make a purchase from local market. 
+
+
+## **Day - 11, ( 30/11/25 ) - Readme and Reviewing**  
+⏳ **Time Spent:** 1+ hours  
+- I updated the readme Overall and correct some stuffs   
+
