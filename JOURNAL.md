@@ -1,3 +1,31 @@
+# Hixper
+Made by: @Abrar-Al-Razee
+Repository link: [Click Here](https://github.com/Abrar-Al-Razee/Hixper---A-3d-Printer)
+
+**Hixper** is a compact, budget-friendly 3D printer designed to stay budgetfriendly while maintaining high functionality. It features a filament detection system to automatically pause printing when the filament runs out, ensuring smooth and uninterrupted prints. Built for efficiency and affordability, it’s ideal for makers looking for a reliable and cost-effective 3D printing solution.
+
+
+### **Plan to achieve**
+I ofter notices after 3D prints finish, thin plastic threads (stringing) often appear between gaps or travel paths. This ruins surface quality and usually requires manual post-processing. So I plan to build a system to auto smooth the printing, by automatically blows **precisely controlled hot air** at specific positions, we can do this thing to get smooth print.
+
+ - ### **How it will be**
+	 - **Glass Enclosure**:
+		 - As shown by your blue outline, the printer is enclosed in a **glass case** to:
+		-   Maintain internal temperature.
+	    -   Prevent air disturbance.
+	    -   Contain hot air application safely.
+    - **Airflow System:**
+		-   A series of **airflow nozzles** (shown in purple dots on the sides in your image) installed vertically on both sides of the printer frame.
+	    -   These nozzles are controlled to release **hot air** in short bursts on specific layers or coordinates post-print.
+
+
+## BOM (Bill Of Materials) & CAD Model
+
+- Here is the full BOM - [*Click*](https://docs.google.com/spreadsheets/d/1szXZdQRvKWeNMLEV-HKFASQY0L3tVTtc/edit?usp=sharing&ouid=104339612074747512309&rtpof=true&sd=true)
+- Cad file in [autodesk](https://autode.sk/3M85VE8) 
+
+
+
 ## **Day - 1, ( 11/11/25 ) - Planning and breakdown idea**  
 I plan to build a 3d printer from scratch. I know its not that much easy but I love to Take challenges. I Planned to build a printer to make the printing smoother and good quality
 
