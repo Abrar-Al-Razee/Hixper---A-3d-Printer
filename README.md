@@ -12,7 +12,7 @@ I often notice that after 3D prints finish, thin plastic threads (stringing) oft
 [Here](https://docs.google.com/spreadsheets/d/1szXZdQRvKWeNMLEV-HKFASQY0L3tVTtc/edit?usp=sharing&ouid=104339612074747512309&rtpof=true&sd=true) is the BOM for this printer
 
 ### CAD
-The CAD file for the printer is available on [autodesk](https://) and [oneshape](https://) 
+The CAD file for the printer is available on [autodesk](https://autode.sk/3M85VE8) and [oneshape](https://) 
 
 -   ### **How it will be**
     
