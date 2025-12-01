@@ -1,4 +1,4 @@
-# Hixper
+
 Made by: @Abrar-Al-Razee
 Repository link: [Click Here](https://github.com/Abrar-Al-Razee/Hixper---A-3d-Printer)
 
@@ -22,7 +22,7 @@ I ofter notices after 3D prints finish, thin plastic threads (stringing) often a
 ## BOM (Bill Of Materials) & CAD Model
 
 - Here is the full BOM - [*Click*](https://docs.google.com/spreadsheets/d/1szXZdQRvKWeNMLEV-HKFASQY0L3tVTtc/edit?usp=sharing&ouid=104339612074747512309&rtpof=true&sd=true)
-- Cad file in [autodesk](https://autode.sk/3M85VE8) 
+- Cad file in [autodesk](https://autode.sk/3M85VE8), [oneshape](https://cad.onshape.com/documents/476ab4c15493c025fafa7f03/w/d0190fbcf47c59f4ad7afeab/e/24afd9a21d414ea6fe7050c9?renderMode=0&uiState=692df3eeda810a62526cefad)
 
 
 
@@ -132,7 +132,8 @@ Firstly I researched popular 3D printers to understand their features, component
 - Installing the frame and nozzle for the air flow
 - And fixing some layout and things
 
-![enter image description here](https://files.edgestore.dev/iz2sept3369gmc0f/publicFiles/_public/d9443607-f6a6-46f3-8584-bd05eae0a13f.jpg)
+![Hixper full printer]![d9443607-f6a6-46f3-8584-bd05eae0a13f](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzNzQsInB1ciI6ImJsb2JfaWQifX0=--fc7167535cc4376f69ddeb2a7a6fafaa029b604a/d9443607-f6a6-46f3-8584-bd05eae0a13f.jpg)
+
 
 
 ## **Day - 10, ( 29/11/25 ) - Preparing Final BOM**  
@@ -143,6 +144,5 @@ Firstly I researched popular 3D printers to understand their features, component
 
 
 ## **Day - 11, ( 30/11/25 ) - Readme and Reviewing**  
-⏳ **Time Spent:** 1+ hours  
+⏳ **Time Spent:** 2+ hours  
 - I updated the readme Overall and correct some stuffs   
-
